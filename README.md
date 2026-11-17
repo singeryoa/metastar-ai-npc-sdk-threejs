@@ -5,7 +5,7 @@
 - **Live demo:** https://www.metastar.world/static/sdk-demo/paste-three.html
 - **Docs:** https://metastar.world/sdk/v1/docs
 - **Dashboard (get your key):** https://metastar.world/sdk/v1/dashboard
-- **Using Babylon.js?** See [metastar-ai-npc-sdk-babylonjs](../metastar-ai-npc-sdk-babylonjs)
+- **Using Babylon.js?** See [[metastar-ai-npc-sdk-babylonjs](../metastar-ai-npc-sdk-babylonjs)](https://github.com/singeryoa/metastar-ai-npc-sdk-babylonjs/tree/main)
 
 ## What you get
 
